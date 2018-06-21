@@ -8,7 +8,7 @@
     "test": "resume test",
     "generate": "npm-run-all --parallel generate:*",
     "generate:pdf": "resume export ekoeryanto.pdf",
-    "generate:html": "resume export index.html"
+    "generate:html": "resume export index.html --theme elegant"
   },
   "repository": {
     "type": "git",
