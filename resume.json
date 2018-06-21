@@ -59,7 +59,9 @@
         "Server",
         "Mobile Application",
         "Desktop Application",
-        "Web Application"
+        "Web Application",
+        "Payment Gateway",
+        "ISO 8583"
       ]
     },
     {
