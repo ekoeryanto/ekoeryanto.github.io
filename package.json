@@ -4,10 +4,10 @@
   "description": "Eko Eryanto Resume",
   "main": "n/a",
   "scripts": {
-    "start": "resume serve",
+    "start": "resume serve --theme elegant",
     "test": "resume test",
     "generate": "npm-run-all --parallel generate:*",
-    "generate:pdf": "resume export ekoeryanto.pdf",
+    "generate:pdf": "resume export ekoeryanto.pdf --theme elegant",
     "generate:html": "resume export index.html --theme elegant"
   },
   "repository": {
