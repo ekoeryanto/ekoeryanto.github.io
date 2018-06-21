@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Eko Eryanto",
+    "label": "Sys Admin",
+    "email": "ekoeryanto@gmail.com",
+    "phone": "(+62) 899-7372-678",
+    "location": {
+      "city": "Karawang",
+      "countryCode": "ID"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ekoeryanto",
+        "url": "https://github.com/ekoeryanto"
+      },
+      {
+        "network": "Google",
+        "username": "+EkoEryanto",
+        "url": "https://plus.google.com/+EkoEryanto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "PDAM Tirta Bumi Wibawa",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "highlights":[
+        "Database"
+      ]
+    },
+    {
+      "company": "PDAM Tirta Sukapura",
+      "startDate": "2009-01-01",
+      "endDate": "2010-01-01",
+      "highlights":[
+        "Database",
+        "Server"
+      ]
+    },
+    {
+      "company": "PDAM Tirta Patriot",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "highlights":[
+        "Network",
+        "Server",
+        "Windows to Linux Migration"
+      ]
+    },
+    {
+      "company": "PDAM Tirta Tarum",
+      "startDate": "2010-01-01",
+      "endDate": "2018-01-01",
+      "highlights":[
+        "Database",
+        "Network",
+        "Server",
+        "Mobile Application",
+        "Desktop Application",
+        "Web Application"
+      ]
+    },
+    {
+      "company": "Networker",
+      "endDate": "2005-01-01",
+      "summary": "Awal karir di bidang computer networking, menawarkan jasa termurah yang pernah ada. Mempunyai lebih dari 10 klien di kota dan kabupaten Bandung baik SOHO maupun Warnet sampai akhirnya jatuh sakit.",
+      "highlights": [
+        "Instalasi",
+        "Perbaikan",
+        "Perawatan",
+        "Optimalisasi"
+      ]
+    },
+    {
+      "company": "Black Took",
+      "startDate": "2004-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Memulai terjun ke dunia web development, Membuat sebuah Music Search Engine yang mengambil data dari 60+ situs penyedia musik.",
+      "highlights":[
+        "Web",
+        "OpenSource",
+        "Music",
+        "Search Engine"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Music Search Engine Contest",
+      "date": "2004-01-01",
+      "awarder": "Website Solutions Ltd.",
+      "summary": "3rd Position."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "NodeJS",
+        "Pug",
+        "Sass",
+        "Stylus",
+        "Less",
+        "Vue",
+        "React",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Desktop",
+      "level": "Master",
+      "keywords": [
+        "Electron",
+        "NWJS",
+        "Cordova",
+        "PhoneGap",
+        "Ionic"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Master",
+      "keywords": [
+        "Cordova",
+        "PhoneGap",
+        "Ionic",
+        "Java",
+        "C#"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Master",
+      "keywords": [
+        "Ubuntu",
+        "Debian",
+        "Centos"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "MariaDB",
+        "CouchDB",
+        "MongoDB",
+        "Firebase",
+        "WebStorages"
+      ]
+    },
+    {
+      "name": "Network",
+      "level": "Master",
+      "keywords":[
+        "Mikrotik",
+        "OpenWRT",
+        "Squid",
+        "etc."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Sunda"
+    },
+    {
+      "language": "Indonesia"
+    },
+    {
+      "language": "English"
+    }
+  ],
+  "references": [
+    {
+      "name": "Erik Firman",
+      "reference": "Saat datang pertama kali, dia menyelesaikan masalah dalam waktu kurang dari 15 menit. Sebelumnya, Tim kami membutuhkan 60 hari."
+    }
+  ]
+}
