@@ -5,11 +5,17 @@
     "email": "ekoeryanto@gmail.com",
     "phone": "(+62) 899-7372-678",
     "picture": "https://s.gravatar.com/avatar/11da6113be5824a87f05910e684dda18?s=100&r=pg&d=mm",
+    "summary": "I’m a full stack developer who loves working with open source technology. I work best at planning the architecture of web applications and their development life cycles.",
     "location": {
       "city": "Karawang",
       "countryCode": "ID"
     },
     "profiles": [
+      {
+        "network": "Facebook",
+        "username": "wastanaeko",
+        "url":"https://www.facebook.com/wastanaeko"
+      },
       {
         "network": "Github",
         "username": "ekoeryanto",
